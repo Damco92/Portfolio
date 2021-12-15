@@ -1,6 +1,6 @@
 var dataProjects = [
     {
-        image: "./assets/projects/FileArchiver-App.png",
+        image: "./assets/projects/FileArchiver-App.PNG",
         name: "FileArchiver",
         description: "A file archiver application buit for archiving files and downloading them protected with password in .7z format",
         technologies: "C# MVC MSSQL TSQL WEB API",
@@ -9,7 +9,7 @@ var dataProjects = [
     },
 
     {
-        image: "./assets/projects/SportApp-Managment.png",
+        image: "./assets/projects/SportApp-Managment.PNG",
         name: "SportsManagmentApp",
         description: "A e-store app for buing sports goods and products",
         technologies: "C# MVC MSSQL TSQL",
